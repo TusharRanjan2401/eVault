@@ -7,11 +7,9 @@
     "npm":"10.7.0"
   },
   "scripts": {
-    "client-install":"npm install --prefix client",
-    "server" : "nodemon server.js",
+    "start":"nodemon server/server.js",
     "client":"npm start --prefix client",
     "dev":"concurrently \"npm run server\" \"npm run client\"",
-    "start":"node server.js",
     "heroku-postbuild":"NPM_CONFIG_PRODUCTION=false npm install --prefix && npm run build --prefix client"
   },
   "author": "",
