@@ -7,7 +7,6 @@
     "npm":"10.7.0"
   },
   "scripts": {
-    "scripts":{
     "client-install":"npm install --prefix client",
     "server" : "nodemon server.js",
     "client":"npm start --prefix client",
