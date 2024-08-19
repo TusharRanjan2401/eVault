@@ -1,12 +1,13 @@
 
 # eVault
 
-The E-Wallet Application is a modern, scalable web application for managing and recording financial transactions. Built using the MERN stack (MongoDB, Express, React, Node.js), this application allows users to:
+The E-Wallet Application is a modern, scalable web application for managing and recording financial transactions. Built using the MERN stack (MongoDB, Express, React, Node.js) and for payments - Stripe , this application allows users to:
 
 - Create and manage their wallets.
 - Deposit,transfer and request funds.
 - Send and receive transactions.
 - View transaction history and wallet balance.
+- Payment using stripe
 
 
 
