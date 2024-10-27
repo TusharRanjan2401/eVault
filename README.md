@@ -86,4 +86,4 @@ npm start
 
 ## Author
 
-www.github.com/TusharRanjan2401
+[@Tushar Ranjan](www.github.com/TusharRanjan2401)
